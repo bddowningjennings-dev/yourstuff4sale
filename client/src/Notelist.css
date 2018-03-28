@@ -1,0 +1,22 @@
+.Notelist {
+  width: 90%;
+  /* background-color: violet; */
+  margin-bottom: 20px;
+}
+.note {
+  margin: 10px 0;
+}
+.note_input {
+  width: 90%;
+  min-height: 150px;
+}
+.Notelist > button {
+  background-color: rgb(71, 216, 115);
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: white;
+}
+.Notelist > button:hover {
+  background-color: rgba(44, 177, 84, 0.849);  
+}

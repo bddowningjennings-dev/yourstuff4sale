@@ -1,0 +1,109 @@
+.Uploader {
+  margin: 10px 0;
+  width: 95%;
+  max-width: 100%;
+  padding: 20px 7px;
+  background-color: rgb(234, 250, 242);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+form#uploader_form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#uploader_form input, textarea {
+  width: 85%;
+  padding: 10px 5%;
+  border: none;
+  margin-bottom: 10px;
+}
+.new_button {
+  padding: 8px 5%;
+  background:#00ad2d;
+  /* border:1px solid #00ad2d; */
+  /* position:relative; */
+  color:#fff;
+  /* border-radius: 8px; */
+
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  /* text-align:center; */
+  cursor: pointer;
+}
+.hide_file {
+    /* position: absolute;
+    z-index: 1000; */
+    display: none;
+    /* cursor: pointer;
+    right: 0;
+    top: 0;
+    height: 50%;
+    font-size: 24px;
+    width: 100%; */
+}
+.prices {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.prices input {
+  width: 85%;
+  padding: 10px 5%;
+  border: none;
+}
+.Uploader button {
+  border: none;
+  padding: 5px 10px;
+  margin: 10px;
+  background:#00ad2d;
+  color:#fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+#files_info {
+  /* padding: 0 10px; */
+  display: flex;
+  justify-content: flex-start;
+  align-content: center;
+  align-items: center;
+  /* width: 100%; */
+  color: gray;
+}
+#filerClick {
+  border-radius: 8px;
+  background-color: white;
+  display: flex;
+  cursor: pointer;
+  /* width: 95%; */
+  /* max-width: 95%;; */
+  margin-bottom: 20px;
+}
+/* .preview_img {
+  margin: 5px 5px;
+} */
+
+#preview {
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  align-items: center;
+  padding: 0 4%;
+  width: 92%;
+  max-width: 92%;
+  flex-wrap: wrap;
+}
+
+.submit_row {
+  height: 45px;
+  padding-bottom: 20px;
+}
+#submit {
+  height: 45px;
+  padding: 0 20px;
+}

@@ -1,0 +1,32 @@
+.Login {
+  margin-top: 80px;
+  padding: 10px;
+  /* background-color: #6d95a53b; */
+  /* box-shadow: 0px 0px 350px 20px #6d95a5; */
+}
+#login_input {
+  border: none;
+  padding: 8px 15px;
+  color: rgb(99, 53, 53);
+  border-bottom-left-radius: 6px;
+  border-top-left-radius: 3px;
+}
+#login_input:focus {
+  color: black;
+  background-color: white;
+}
+#login_input:hover {
+  color: black;
+  background-color: white;
+}
+button#login_button {
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 8px 10px;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 4px;
+  background-color: rgb(95, 173, 91);
+}
+button#login_button:hover {
+  background-color: rgb(136, 187, 133);  
+}

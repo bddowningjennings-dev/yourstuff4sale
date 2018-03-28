@@ -1,0 +1,19 @@
+.PhotoPicker {
+  cursor: pointer;
+  
+}
+
+.preview {
+  height: 340px;
+  width: 340px;
+  background-color: transparent;
+  /* margin: 0 5px; */
+  background-size: contain; 
+  background-position:center center; 
+  background-repeat:no-repeat;
+  margin-bottom: 10px;
+}
+
+.disabled {
+  display: none;
+}

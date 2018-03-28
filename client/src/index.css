@@ -1,0 +1,37 @@
+
+/* @import url('https://fonts.googleapis.com/css?family=Roboto'); */
+/* @import url('./fonts.css'); */
+
+* {
+  margin: 0;
+  padding: 0;
+  overflow: visible;
+  /* outline: 1px solid red; */
+  font-family: 'Ubuntu', sans-serif;
+}
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: sans-serif;
+  color: rgba(73, 73, 73, 0.966);
+}
+.hidden {
+  display: none;
+}
+:focus {
+  outline: none;
+}
+::-moz-focus-inner {
+  border: 0;
+}
+img {
+  max-width: 94%;
+}
+button {
+  cursor: pointer;
+}
+textarea {
+  font-size: 0.95em;
+}
