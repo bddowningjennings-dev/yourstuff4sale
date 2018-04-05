@@ -1,7 +1,7 @@
 require('dotenv').load()
 const
   PORT = 8000,
-  DATABASE = 'ys4s',
+  DATABASE = 'ys4s-githubdemo',
   bodyParser = require('body-parser'),
   express = require('express'),
   app = express()

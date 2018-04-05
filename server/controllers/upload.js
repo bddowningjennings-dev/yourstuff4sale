@@ -40,7 +40,7 @@ class UploadController {
         user.save()
         html = `<p>${user.email}</p>` + html
         let body = { html, attachments }
-        mailer('yourstufffoursale@gmail.com', body)
+        // mailer('YS4SEMAIL', body)
       })
       return res.json(upload)
     })
