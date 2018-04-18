@@ -1,6 +1,6 @@
 # yourstuff4sale
 
-Demo hosted by AWS at [13.57.5.153](http://13.57.5.153/)
+Demo hosted by AWS at [13.57.5.153](http://13.57.5.153/) - hardcoded admin page "credentials" = github@demo.pleasebenice
 
 Web solution created for communicating between physical shops/local sellers and the team at yourstuff4sale.com
   - Organizes "New", "Posted" and "Sold" listings
