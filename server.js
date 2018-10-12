@@ -7,8 +7,12 @@ const
   app = express()
 
 app.get('/', (req, res) => {
-  return res.sendFile(__dirname + '/build/index.html')
+  return res.sendFile(__dirname + '/construction.html')
 })
+
+// app.get('/', (req, res) => {
+//   return res.sendFile(__dirname + '/build/index.html')
+// })
 
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: true, limit: '25mb'}));
