@@ -1,6 +1,6 @@
 # yourstuff4sale
 
-<span style='color:grey;text-decoration:line-through'>Demo hosted by AWS at [13.57.5.153](http://13.57.5.153/) - hardcoded admin page "credentials" = github@demo.pleasebenice</span>
+~~Demo hosted by AWS at [13.57.5.153](http://13.57.5.153/) - hardcoded admin page "credentials" = github@demo.pleasebenice~~
 Oops, previously removed ec2 instance! Will soon be re-configured & hosted @ [ys4s.elegantsauce.xyz](http://ys4s.elegantsauce.xyz)
 
 Web solution created for communicating between physical shops/local sellers and the team at yourstuff4sale.com
