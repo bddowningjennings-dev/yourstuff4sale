@@ -13,7 +13,7 @@ Web solution created for communicating between physical shops/local sellers and 
 
 <img src="./readme_assets/new.png">
 
-
+<img src="./readme_assets/ys4s-mailer-example.png">
 
 Utility made (voluntarily and as a demo) on spec provided by -  [yourstuf4sale.com](https://www.yourstuff4sale.com)
 
